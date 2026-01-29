@@ -6,7 +6,7 @@ import {
 
 // --- IMAGE IMPORTS ---
 import headerImage from "../assests/bloomfield.png"; // Professional consultation/office
-import loanFocusImage from "../assests/bf2.webp"; // Banking/Financial focus
+import loanFocusImage from "../assests/bf4.webp"; // Banking/Financial focus
 import digitalMarketingImage from "../assests/bf3.webp"; // Abstract tech/Growth
 import coimbatoreMapImage from "../assests/bf4.webp"; // Local regional focus
 
