@@ -10,6 +10,7 @@ import loanFocusImage from "../assests/bf4.webp"; // Banking/Financial focus
 import digitalMarketingImage from "../assests/bf3.webp"; // Abstract tech/Growth
 import coimbatoreMapImage from "../assests/bf4.webp"; // Local regional focus
 
+
 const services = [
   {
     icon: Briefcase,
